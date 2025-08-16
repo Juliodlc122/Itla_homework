@@ -1,0 +1,13 @@
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\bin\Debug\CapaNegocio.dll.config
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaNegocio\obj\Debug\CapaNegocio.pdb
