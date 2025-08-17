@@ -1,0 +1,15 @@
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\julio\Documents\GitHub\Itla-Homework\Itla_Homework\Itla_homework\SistemaInventarioBoutique\CapaPresentacion\obj\Debug\CapaPresentacion.exe.config

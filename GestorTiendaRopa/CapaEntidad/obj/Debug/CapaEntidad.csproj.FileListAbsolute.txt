@@ -1,2 +1,0 @@
-C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
-C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache

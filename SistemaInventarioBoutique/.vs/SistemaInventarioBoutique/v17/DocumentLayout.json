@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB16644-710F-4C67-AB3B-98B913068B51}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\julio\\documents\\github\\itla-homework\\itla_homework\\itla_homework\\sistemainventarioboutique\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB16644-710F-4C67-AB3B-98B913068B51}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03DDE12-1D11-48B3-8C98-E147734F556F}|CapaDatos\\CapaDatos.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capadatos\\ventadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03DDE12-1D11-48B3-8C98-E147734F556F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\ventadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C56F44-6AF8-4ACA-883B-AA66144FCF8F}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capanegocio\\ventanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C56F44-6AF8-4ACA-883B-AA66144FCF8F}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ventanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130756DC-9317-4E59-B4DF-DE8EEB91F2A4}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capaentidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130756DC-9317-4E59-B4DF-DE8EEB91F2A4}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C56F44-6AF8-4ACA-883B-AA66144FCF8F}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capanegocio\\prendanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C56F44-6AF8-4ACA-883B-AA66144FCF8F}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\prendanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03DDE12-1D11-48B3-8C98-E147734F556F}|CapaDatos\\CapaDatos.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capadatos\\prendadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03DDE12-1D11-48B3-8C98-E147734F556F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\prendadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03DDE12-1D11-48B3-8C98-E147734F556F}|CapaDatos\\CapaDatos.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03DDE12-1D11-48B3-8C98-E147734F556F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C56F44-6AF8-4ACA-883B-AA66144FCF8F}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capanegocio\\colornegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C56F44-6AF8-4ACA-883B-AA66144FCF8F}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\colornegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C56F44-6AF8-4ACA-883B-AA66144FCF8F}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capanegocio\\tallanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C56F44-6AF8-4ACA-883B-AA66144FCF8F}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\tallanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03DDE12-1D11-48B3-8C98-E147734F556F}|CapaDatos\\CapaDatos.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capadatos\\talladatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03DDE12-1D11-48B3-8C98-E147734F556F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\talladatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130756DC-9317-4E59-B4DF-DE8EEB91F2A4}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capaentidades\\talla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130756DC-9317-4E59-B4DF-DE8EEB91F2A4}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\talla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03DDE12-1D11-48B3-8C98-E147734F556F}|CapaDatos\\CapaDatos.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capadatos\\colordatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03DDE12-1D11-48B3-8C98-E147734F556F}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\colordatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130756DC-9317-4E59-B4DF-DE8EEB91F2A4}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capaentidades\\prenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130756DC-9317-4E59-B4DF-DE8EEB91F2A4}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\prenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130756DC-9317-4E59-B4DF-DE8EEB91F2A4}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\capaentidades\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130756DC-9317-4E59-B4DF-DE8EEB91F2A4}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaDatos\\VentaDatos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\VentaDatos.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaDatos\\VentaDatos.cs",
+              "RelativeToolTip": "CapaDatos\\VentaDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:42:22.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaPresentacion\\Inicio.cs",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:30:16.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaNegocio\\VentaNegocio.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\VentaNegocio.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaNegocio\\VentaNegocio.cs",
+              "RelativeToolTip": "CapaNegocio\\VentaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:44:57.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaEntidades\\Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Venta.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaEntidades\\Venta.cs",
+              "RelativeToolTip": "CapaEntidades\\Venta.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:35:54.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrendaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaNegocio\\PrendaNegocio.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\PrendaNegocio.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaNegocio\\PrendaNegocio.cs",
+              "RelativeToolTip": "CapaNegocio\\PrendaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:44:42.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:40:00.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrendaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaDatos\\PrendaDatos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\PrendaDatos.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaDatos\\PrendaDatos.cs",
+              "RelativeToolTip": "CapaDatos\\PrendaDatos.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswFQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:41:38.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaNegocio\\ColorNegocio.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\ColorNegocio.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaNegocio\\ColorNegocio.cs",
+              "RelativeToolTip": "CapaNegocio\\ColorNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:43:50.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TallaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaNegocio\\TallaNegocio.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\TallaNegocio.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaNegocio\\TallaNegocio.cs",
+              "RelativeToolTip": "CapaNegocio\\TallaNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:44:29.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TallaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaDatos\\TallaDatos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\TallaDatos.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaDatos\\TallaDatos.cs",
+              "RelativeToolTip": "CapaDatos\\TallaDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:50:51.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Talla.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaEntidades\\Talla.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Talla.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaEntidades\\Talla.cs",
+              "RelativeToolTip": "CapaEntidades\\Talla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:35:34.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ColorDatos.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaDatos\\ColorDatos.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ColorDatos.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaDatos\\ColorDatos.cs",
+              "RelativeToolTip": "CapaDatos\\ColorDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:40:35.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Prenda.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaEntidades\\Prenda.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Prenda.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaEntidades\\Prenda.cs",
+              "RelativeToolTip": "CapaEntidades\\Prenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:34:33.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaEntidades\\Color.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Color.cs",
+              "ToolTip": "C:\\Users\\julio\\Documents\\GitHub\\Itla-Homework\\Itla_Homework\\Itla_homework\\SistemaInventarioBoutique\\CapaEntidades\\Color.cs",
+              "RelativeToolTip": "CapaEntidades\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:33:54.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

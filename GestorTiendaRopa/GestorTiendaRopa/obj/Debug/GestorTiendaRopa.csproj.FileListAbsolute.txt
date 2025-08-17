@@ -1,7 +1,0 @@
-C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\GestorTiendaRopa\bin\Debug\GestorTiendaRopa.exe.config
-C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\GestorTiendaRopa\bin\Debug\GestorTiendaRopa.exe
-C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\GestorTiendaRopa\bin\Debug\GestorTiendaRopa.pdb
-C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\GestorTiendaRopa\obj\Debug\GestorTiendaRopa.csproj.AssemblyReference.cache
-C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\GestorTiendaRopa\obj\Debug\GestorTiendaRopa.csproj.CoreCompileInputs.cache
-C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\GestorTiendaRopa\obj\Debug\GestorTiendaRopa.exe
-C:\Users\julio\Documents\GitHub\Itla-Homework\GestorTiendaRopa\GestorTiendaRopa\obj\Debug\GestorTiendaRopa.pdb
